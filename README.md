@@ -1,7 +1,7 @@
 # odin-recipes
 
 ## Description
-It will consist of a main index page which will have links to a few recipes.
+The project turned into a recipe cook book for a Italian restaurant with a main page and 3 separate pages for recipes.
 
 ## Purpose
 **odin-recipes** is a project to test and show the basic understanding of how to create a webpage using HTML.
