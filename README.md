@@ -10,4 +10,4 @@ Skills that should be tested and/or aquired through this project:
 - Basic structure or boilerplate of HTML
 - Formatting text in HTML
 - Working with lists in HTML
-- creating links to other pages and adding images to pages
+- Creating links to other pages and adding images to pages
