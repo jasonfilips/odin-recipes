@@ -1,0 +1,20 @@
+.top-page-links {
+    text-align: center;
+}
+
+.title {
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+ul{
+    font-size: 16px;
+    text-align: left;
+    margin: 0 auto;
+}
+
+img {
+    width: 750px;
+    height: auto;
+}
