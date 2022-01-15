@@ -1,20 +1,80 @@
-.top-page-links {
+.title.ingredients {
+    background-color: #294C60;
     text-align: center;
+    padding:0 150px 0 150px;
+    color: black;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 300px;
+    display: inline-block;
 }
+
 
 .title {
     text-align: center;
     background-color: black;
     color: white;
 }
+.title.food{
+    margin-top: 100px;
+}
 
 ul{
     font-size: 16px;
     text-align: left;
-    margin: 0 auto;
+    margin: 0;
+    background-color: #A3A3FF;
+    border-radius: 10px;
+    
+}
+ol{
+    text-align: justify;
+    background-color: #A3A3FF;
 }
 
 img {
     width: 750px;
     height: auto;
+}
+h3{
+    background-color: #294C60;
+    text-align: center;
+    padding:0 150px 0 150px;
+    color: black;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 300px;
+    display: inline-block;
+}
+h4{
+    background-color: #294C60;
+    text-align: center;
+    padding:0 150px 0 150px;
+    color: black;
+    margin-bottom: 0px;
+    margin-right: 0px;
+    margin-left: 300px;
+    display: inline-block;
+}
+
+.navbar{
+    position: fixed;
+    top:0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 5px 0 5px 0;
+    background-color: rgba(110, 110, 252, 1);
+    display:flex;
+    justify-content: space-evenly;
+}
+
+html{
+    background-color: #001B2E;
+}
+a{
+    color: black;
+}
+a:hover{
+    color:red;
 }
