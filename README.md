@@ -6,6 +6,7 @@ The project turned into a recipe cook book for a Italian restaurant with a main 
 ## Purpose
 **odin-recipes** is a project to create a website using HTML with multiple links to other pages.
 
+## Skills
 Skills that should be tested and/or aquired through this project: 
 - Basic structure or boilerplate of HTML
 - Formatting text in HTML
